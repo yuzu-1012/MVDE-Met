@@ -1,0 +1,7 @@
+opencv_python
+numpy
+torch
+torchvision
+torch_kmeans
+scikit-learn
+albumentations
